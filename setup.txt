@@ -1,0 +1,4 @@
+desktop_sorter_path = |C:\Users\terri\OneDrive\Desktop\File Sorter|
+sort_directory1 = |C:\Users\terri\OneDrive\Desktop\SAIT|
+sort_directory2 = |C:\Users\terri\OneDrive\Documents\CAD_CAM_CAE\Solidworks|
+my_files_path = |C:\Users\terri\OneDrive\Documents\My Files|
